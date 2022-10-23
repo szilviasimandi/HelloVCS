@@ -7,6 +7,8 @@ namespace HelloVCS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, VCS!");
+            //alma
+            //körte
         }
 
     }
